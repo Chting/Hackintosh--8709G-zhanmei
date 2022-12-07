@@ -1,6 +1,7 @@
 # Hackintosh--8709G-zhanmei。 
 #注意：占美8709/8809G有两种，一个带核显，一个不带，此EFI带核显。此EFI带核显。此EFI带核显。  
 配置：  
+> MacOS 12.2.1  
 > CPU:8709G  
 > IGPU: UHD 630  
 > GPU:AMD Radeon RX Vega M GH 4 GB  
