@@ -5,6 +5,7 @@
 > IGPU: UHD 630
 > GPU:AMD Radeon RX Vega M GH 4 GB
 > 无线/蓝牙模块：BCM943602CS + M.2转接板 ，无线和蓝牙完全免驱（这是废话，因为是MBP15款拆机的）
+
 功能状态正常（用过的）
 > 接力，苹果表解锁
 > air Pods Pro 手机电脑无缝切换
